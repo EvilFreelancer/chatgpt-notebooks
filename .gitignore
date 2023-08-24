@@ -1,2 +1,5 @@
 /.idea/
-
+/venv/
+/dataset/
+/dataset.zip
+/*.jsonl
